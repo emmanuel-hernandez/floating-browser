@@ -1,2 +1,5 @@
 # floating-browser
-A floating javafx webbrowser 
+
+A simple floating javafx web browser 
+
+Ideal for watching youtube videos while working 

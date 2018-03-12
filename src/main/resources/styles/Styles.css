@@ -1,0 +1,17 @@
+.button {
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-font-family: Arial;
+    -fx-font-size: 11pt;
+    /*-fx-background-color: #282828;*/ 
+    -fx-border-size: 1px;
+    /*-fx-border-color: #282828;*/
+    -fx-border-color: whitesmoke;
+    -fx-text-inner-color: black;
+}
+
+.text-field:focused {
+    -fx-border-color: dodgerblue;
+}
